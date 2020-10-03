@@ -1478,8 +1478,13 @@ body.offcanvas {
 
 .Iam {
   background-color: #f2f3f7e3;
+  padding: 10px;
 }
 
 .blue-hover:hover {
   color: #2c98f0;
+}
+
+.fs25 {
+  font-size: 25px;
 }
